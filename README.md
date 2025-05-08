@@ -6,20 +6,25 @@
   </a>
 </p>
 
-<h3 align="center">Master's student in Data Science & NLP | AI Project Builder | Passionate about LLMs and RAG Systems</h3>
+<h3 align="center"> Data Scientist & NLP Intern at SII Group| Master's student in Data Science & NLP </h3>
 
 ---
 
 ## 🧠 About Me
 
 I’m currently pursuing a **Master 2 in Data Science and NLP** at the University of Nantes.  
-I specialize in developing **LLM-based applications**, building **semantic search pipelines**, and deploying intelligent agents with **LangChain**, **Bedrock**, or **Ollama**.
-
-I am passionate about leveraging **Large Language Models**, **RAG architectures**, and **Prompt Engineering** to solve real-world problems.
-
-🔍 Looking for **end-of-study internships** in data science, NLP, or AI engineering.
 
 ---
+
+## 🎓 Education
+
+- 📘 Master 2 — Data Science & NLP — Nantes Université (France)  
+- 📘 Master — Exploration Informatique des Données — Sorbonne Paris Nord (France)   
+- 📘 Master — Web Intelligence & Data Science — Université Fès  (Morocco)  
+- 🎓 Licence — Mathématiques et Informatique — FSDM, Fès (Morocco)  
+
+---
+
 
 ## 🛠 Technical Stack
 
@@ -53,14 +58,6 @@ I am passionate about leveraging **Large Language Models**, **RAG architectures*
 - ✅ Oracle Cloud Infrastructure Generative AI Certified – 2024  
 - ✅ Machine Learning & AI Engineering Certifications – Coursera  
 
----
-
-## 🎓 Education
-
-- 📘 Master 2 — Data Science & NLP — Nantes Université (France)  
-- 📘 Master — Exploration Informatique des Données — Sorbonne Paris Nord  
-- 📘 Master — Web Intelligence & Data Science — Université Fès  
-- 🎓 Licence — Mathématiques et Informatique — FSDM, Fès
 
 ---
 
