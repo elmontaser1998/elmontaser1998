@@ -13,7 +13,6 @@
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="200px"/>
 
 ---
 
