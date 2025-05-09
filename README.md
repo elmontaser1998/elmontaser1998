@@ -8,28 +8,61 @@
 
 <h3 align="center"> Data Scientist & NLP Intern at SII Group| Master's student in Data Science & NLP </h3>
 
+
+<h2 align="center">🤖 Let’s build smarter AI together!</h2>
+
+<br/>
+
+<img align="right" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="200px"/>
+
 ---
 
 ## 🧠 About Me
 
-I’m currently pursuing a **Master 2 in Data Science and NLP** at the University of Nantes.  
+I am a Data Scientist specialized in Natural Language Processing (NLP), currently pursuing a **Master 2 in Data Science and NLP** at the University of Nantes. 
+I have one year of hands-on experience gained through two final-year internships, during which I worked on real-world NLP projects involving Large Language Models (LLMs), prompt engineering, and Retrieval-Augmented Generation (RAG) systems.
+I have practical experience in building intelligent assistants powered by AI agents, using advanced frameworks such as LangChain, LangGraph, CrewAI, LangFuse, and LangSmith.
+I am also experienced in deploying NLP solutions on AWS cloud infrastructure, following best practices for scalability and robustness.
+Additionally, I have strong skills in data analysis, Machine Learning, and Deep Learning to support advanced analytics and data-driven decision-making.
 
 ---
 
 ## 🎓 Education
 
-- 📘 Master 2 — Data Science & NLP — Nantes Université (France)  
-- 📘 Master — Exploration Informatique des Données — Sorbonne Paris Nord (France)   
-- 📘 Master — Web Intelligence & Data Science — Université Fès  (Morocco)  
-- 🎓 Licence — Mathématiques et Informatique — FSDM, Fès (Morocco)  
+- 📘 Master’s Degree  — Data Science & NLP — University of Nantes (France)  
+- 📘 Master’s Degree — Data Exploration and Data Mining  — Sorbonne Paris Nord (France)   
+- 📘 Master’s Degree  — Web Intelligence & Data Science — Sidi Mohamed Ben Abdellah University, Fez  (Morocco)
+- 🎓 Bachelor’s Degree —  Software Engineering and Multimedia  — Sidi Mohamed Ben Abdellah University, Fez (Morocco) 
+- 🎓 Bachelor’s Degree — Mathematics and Computer Science  — Sidi Mohamed Ben Abdellah University, Fez (Morocco)  
+
+---
+## 💼 EXPERIENCE
+### Data Scientist (NLP) Intern @ Groupe SII 
+*Feb 2025 – Aug 2025, Lyon, France* 
+
+### Data Scientist (NLP) Intern @ IRIT 
+*Apr 2024 – Aug 2024, Toulouse, France*
+
 
 ---
 
-
 ## 🛠 Technical Stack
 
-| Domain              | Tools & Technologies                                                                 |
-|---------------------|----------------------------------------------------------------------------------------|
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-7289DA?style=for-the-badge&logo=graph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-912CEE?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-9146FF?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
+
+
+| Domain              | Tools & Technologies                                                                  |
+|---------------------|---------------------------------------------------------------------------------------|
 | Programming         | Python, Java, SQL, R, Jakarta EE                                                      |
 | LLMs / NLP          | LangChain, Bedrock, Ollama, RAG, QLoRA, RAGAS, NLTK, SpaCy                            |
 | Data & ML           | Pandas, Scikit-Learn, PyTorch, TensorFlow, Keras, FastAPI                             |
@@ -42,21 +75,16 @@ I’m currently pursuing a **Master 2 in Data Science and NLP** at the Universit
 
 ## 🚀 Projects
 
-### 📄 [MultiFile-RAG App](https://github.com/elmontaser1998/MULTI_FILE-Rag)  
-**Chat with PDFs, Word, and CSV using LLMs (Bedrock or Ollama)**  
-🛠️ Streamlit · LangChain · FAISS · Bedrock · Ollama · Docker · CI/CD  
-📚 A semantic search application that lets users upload files and ask questions using LLMs, with automatic fallback if Bedrock is unavailable.
 
-### 🫀 [Heart Disease Prediction](https://github.com/elmontaser1998/Heart-Disease-Prediction.git)  
-**Predict heart disease from patient data using ML models and REST API**  
-🛠️ Scikit-Learn · FastAPI · Streamlit · Docker
 
 ---
 
 ## 🧪 Certifications
 
-- ✅ Oracle Cloud Infrastructure Generative AI Certified – 2024  
-- ✅ Machine Learning & AI Engineering Certifications – Coursera  
+- ✅ **AI Agents Fundamentals** – Hugging Face (2025)  
+- ✅ **Multi AI Agent Systems** – CrewAI (2025)  
+- ✅ **Oracle Generative AI Professional** – Oracle (2024)  
+- ✅ **Machine Learning Specialization** – Coursera   
 
 
 ---
