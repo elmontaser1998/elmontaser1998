@@ -39,8 +39,6 @@ Additionally, I have strong skills in data analysis, Machine Learning, and Deep 
 ### Data Scientist (NLP) Intern @ Groupe SII 
 *Feb 2025 – Aug 2025, Lyon, France* 
 
-<img src="https://upload.wikimedia.org/wikipedia/fr/7/72/SII_logo.jpg" alt="SII Logo" width="120"/>
-
 Worked on the development of an AI-powered assistant to automatically generate unit tests for Java code, starting from individual classes and scaling to full-project coverage.
 
 **Key responsibilities:**
@@ -54,8 +52,6 @@ Worked on the development of an AI-powered assistant to automatically generate u
 
 ### Data Scientist (NLP) Intern @ IRIT 
 *Apr 2024 – Aug 2024, Toulouse, France*
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_IRIT_2018.png" alt="IRIT Logo" width="100"/>
 
 Contributed to a research project aiming to generate semantic descriptions of object positions using LLMs and textual part descriptions.
 
