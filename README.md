@@ -63,12 +63,13 @@ Additionally, I have strong skills in data analysis, Machine Learning, and Deep 
 | Domain              | Tools & Technologies                                                                  |
 |---------------------|---------------------------------------------------------------------------------------|
 | Programming         | Python, Java, SQL, R, Jakarta EE                                                      |
-| LLMs / NLP          | LangChain, Bedrock, Ollama, RAG, QLoRA, RAGAS, NLTK, SpaCy                            |
-| Data & ML           | Pandas, Scikit-Learn, PyTorch, TensorFlow, Keras, FastAPI                             |
-| MLOps / Deployment  | Docker, Streamlit, GitHub Actions, FastAPI, FAISS                                     |
-| Data Visualization  | Power BI, Matplotlib                                                                  |
-| Databases           | Oracle, MySQL                                                                         |
-| Other Tools         | Git, VS Code, Postman, Jupyter                                                        |
+| LLMs / NLP          | LangChain,LangFuse, LangSmith, Ollama, RAG, QLoRA, RAGAS, NLTK, SpaCy                 |
+| AI Agent Platforms  | CrewAI, LangGraph, MCP (Model Context Protocol), n8n                                  |
+| Data & ML           | Pandas,Matplotlib,Scikit-Learn, PyTorch, TensorFlow, Keras                            |
+| MLOps / Deployment  | Docker, Kubernetes, GitHub Actions, GitLab CI/CD,Streamlit, FastAPI                   |
+| AWS Cloud           | Bedrock, SageMaker, EC2, S3, IAM                                                      |
+| Databases           | Oracle, MySQL, SQL Server                                                             |
+| Other Tools         | VS Code, Postman, Jupyter                                                             |
 
 ---
 
