@@ -95,10 +95,15 @@ Contributed to a research project aiming to generate semantic descriptions of ob
 ---
 
 ## 🚀 Projects
- **📂 MULTI_FILE-RAG** – [GitHub Repository](https://github.com/elmontaser1998/MULTI_FILE-Rag)  
-  Developed a multimodal Retrieval-Augmented Generation (RAG) application capable of processing multiple file types including PDFs, tables, and images.  
-  Integrated **LangGraph** to coordinate intelligent agents, and deployed the full pipeline using **Docker**, **Kubernetes**, **GitHub Actions**, and **AWS EC2**.  
-  Includes support for **chat history**, **question validation**, and **Bedrock LLM integration** for scalable and interactive document-based Q&A.
+
+### 📂 [MultiFile-RAG](https://github.com/elmontaser1998/MULTI_FILE-Rag)
+A modular and production-ready **Retrieval-Augmented Generation (RAG)** application that allows users to interact with PDFs, Word, and CSV files using LLMs.
+
+**Key Highlights:**
+- Handles both structured (CSV) and unstructured (PDF, Word) documents using **LangChain agents** and a **FAISS vector store**.
+- Integrates **AWS Bedrock** (Claude, Titan) and **Ollama (LLaMA 3.2)** with automatic fallback.
+- Supports **Docker deployment**, **GitHub Actions CI/CD**, and **chat history export**.
+- Built with **Streamlit**.
 
 
 ---
