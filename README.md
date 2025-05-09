@@ -38,11 +38,26 @@ Additionally, I have strong skills in data analysis, Machine Learning, and Deep 
 ## 💼 EXPERIENCE
 ### Data Scientist (NLP) Intern @ Groupe SII 
 *Feb 2025 – Aug 2025, Lyon, France* 
+Worked on the development of an AI-powered assistant to automatically generate unit tests for Java code, starting from individual classes and scaling to full-project coverage.
+**Key responsibilities:**
+
+- Designed and optimized prompt engineering strategies to improve the quality and relevance of test generation using LLMs.
+- Built a domain-specific knowledge base to enhance LLM contextual understanding and improve unit test generation.
+- Developed a Retrieval-Augmented Generation (RAG) pipeline to automatically extract relevant context from the knowledge base.
+- Created and orchestrated AI agents capable of autonomously selecting the most relevant context to generate accurate unit tests.
+- Integrated the assistant with AWS Bedrock and deployed it on AWS EC2, ensuring scalable access and optimized performance.
+
 
 ### Data Scientist (NLP) Intern @ IRIT 
 *Apr 2024 – Aug 2024, Toulouse, France*
 
+Contributed to a research project aiming to generate semantic descriptions of object positions using LLMs and textual part descriptions.
 
+**Key responsibilities:**
+
+- Built a RAG system to extract relevant semantic information from technical PDF documents describing mechanical parts.
+- Optimized LLM outputs through advanced prompt engineering techniques to ensure accurate and meaningful descriptions.
+- Applied QLoRA fine-tuning to adapt and improve the LLM’s ability to handle domain-specific language and positioning data.
 ---
 
 ## 🛠 Technical Stack
