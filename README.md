@@ -106,7 +106,12 @@ A modular and production-ready **Retrieval-Augmented Generation (RAG)** applicat
 - Supports **Docker deployment**, **GitHub Actions CI/CD**, and **chat history export**.
 - Built with **Streamlit**.
 
+### 📂 [LinkedIn0Post-Generator](https://github.com/elmontaser1998/linkedin-post-generator)
+An intelligent multi-agent application built with CrewAI, designed to generate engaging and well-researched LinkedIn posts using Groq LLAMA3 API.
 
+**Key Highlights:**
+- Three specialized agents: Researcher, Video Finder, and Post Writer, orchestrated by CrewAI.
+- Uses Tavily API for research and Groq LLaMA3 for generation.
 ---
 
 ## 🧪 Certifications
