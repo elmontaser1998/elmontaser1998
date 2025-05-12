@@ -49,6 +49,13 @@ Worked on the development of an AI-powered assistant to automatically generate u
 - Created and orchestrated AI agents capable of autonomously selecting the most relevant context to generate accurate unit tests.
 - Integrated the assistant with AWS Bedrock and deployed it on AWS EC2, ensuring scalable access and optimized performance.
 
+### Data Scientist (NLP) – Project @ LS2N 
+*Sep 2024 – Jan 2025, Nantes, France*
+As part of my Master’s program, I contributed to a research project at the Laboratoire des Sciences du Numérique de Nantes (LS2N).
+The project focused on developing an automatic summarization method for legal documents.
+**Key responsibilities:**
+-
+
 
 ### Data Scientist (NLP) Intern @ IRIT 
 *Apr 2024 – Aug 2024, Toulouse, France*
