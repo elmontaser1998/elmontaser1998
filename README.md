@@ -36,7 +36,7 @@ Additionally, I have strong skills in data analysis, Machine Learning, and Deep 
 
 ---
 ## 💼 EXPERIENCE
-### Data Scientist (NLP) Intern @ Groupe SII 
+### 💻 Data Scientist (NLP) Intern @ Groupe SII 
 *Feb 2025 – Aug 2025, Lyon, France* 
 
 Worked on the development of an AI-powered assistant to automatically generate unit tests for Java code, starting from individual classes and scaling to full-project coverage.
@@ -49,7 +49,7 @@ Worked on the development of an AI-powered assistant to automatically generate u
 - Created and orchestrated AI agents capable of autonomously selecting the most relevant context to generate accurate unit tests.
 - Integrated the assistant with AWS Bedrock and deployed it on AWS EC2, ensuring scalable access and optimized performance.
 
-### Data Scientist (NLP) – Project @ LS2N 
+### 💻 Data Scientist (NLP) – Project @ LS2N 
 *Sep 2024 – Jan 2025, Nantes, France*
 
 As part of my Master’s program, I contributed to a research project at the Laboratoire des Sciences du Numérique de Nantes (LS2N).
@@ -66,7 +66,7 @@ both extractive and abstractive models: relevant sentences were first identified
 
 
 
-### Data Scientist (NLP) Intern @ IRIT 
+### 💻 Data Scientist (NLP) Intern @ IRIT 
 *Apr 2024 – Aug 2024, Toulouse, France*
 
 Contributed to a research project aiming to generate semantic descriptions of object positions using LLMs and textual part descriptions.
