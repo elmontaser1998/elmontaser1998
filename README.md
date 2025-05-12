@@ -76,6 +76,19 @@ Contributed to a research project aiming to generate semantic descriptions of ob
 - Built a RAG system to extract relevant semantic information from technical PDF documents describing mechanical parts.
 - Optimized LLM outputs through advanced prompt engineering techniques to ensure accurate and meaningful descriptions.
 - Applied QLoRA fine-tuning to adapt and improve the LLM’s ability to handle domain-specific language and positioning data.
+
+### 💻 Data Scientist – Summer Intern @ Mondial Solution Services
+
+*July 2023 – August 2023, Casablanca, Morocco*
+
+As part of a summer project, I completed an internship at Mondial Solution Services. The goal was to develop a smart system for detecting speed bumps and potholes using object detection models.
+
+**Key responsibilities:**
+
+- Collected, annotated (with Roboflow), and preprocessed training image datasets.
+- Trained object detection models: YOLOv8m and Faster R-CNN.
+- Performed real-time testing and fine-tuning on video inputs.
+- Conducted comparative evaluation and deployed the solution with Flask.
 ---
 
 ## 🛠 Technical Stack
