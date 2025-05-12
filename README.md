@@ -107,7 +107,7 @@ Contributed to a research project aiming to generate semantic descriptions of ob
 | MLOps / Deployment  | Docker, Kubernetes, GitHub Actions, GitLab CI/CD,Streamlit, FastAPI                   |
 | AWS Cloud           | Bedrock, SageMaker, EC2, S3, IAM                                                      |
 | Databases           | Oracle, MySQL, SQL Server                                                             |
-| Other Tools         | VS Code, Postman, Jupyter                                                             |
+| Other Tools         | VS Code, Postman, Jupyter, GitHub, GitLab                                             |
 
 ---
 
