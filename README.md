@@ -51,10 +51,19 @@ Worked on the development of an AI-powered assistant to automatically generate u
 
 ### Data Scientist (NLP) – Project @ LS2N 
 *Sep 2024 – Jan 2025, Nantes, France*
+
 As part of my Master’s program, I contributed to a research project at the Laboratoire des Sciences du Numérique de Nantes (LS2N).
 The project focused on developing an automatic summarization method for legal documents.
+
 **Key responsibilities:**
--
+
+- Conducted an in-depth literature review on legal document summarization, covering extractive, abstractive, and hybrid methods.
+- Tested and compared existing models (TextRank, LegalPEGASUS, BART-Large-CNN, etc.) on the SCOTUS dataset.
+- Designed and implemented a hybrid summarization approach by combining BERT-Legal-based sentence classifiers with
+both extractive and abstractive models: relevant sentences were first identified using a fine-tuned BERT classifier, then passed to summarization models such as TextRank and LegalPEGASUS.
+- Conducted experimental evaluation on SCOTUS to assess improvements in summarization quality.
+- Wrote a research paper presenting the methodology and results.
+
 
 
 ### Data Scientist (NLP) Intern @ IRIT 
