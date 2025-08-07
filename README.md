@@ -18,11 +18,13 @@
 
 ## 🧠 About Me
 
-I am a Data Scientist specialized in Natural Language Processing (NLP), currently pursuing a **Master 2 in Data Science and NLP** at the University of Nantes. 
-I have one year of hands-on experience gained through two final-year internships, during which I worked on real-world NLP projects involving Large Language Models (LLMs), prompt engineering, and Retrieval-Augmented Generation (RAG) systems.
-I have practical experience in building intelligent assistants powered by AI agents, using advanced frameworks such as LangChain, LangGraph, CrewAI, LangFuse, and LangSmith.
-I am also experienced in deploying NLP solutions on AWS cloud infrastructure, following best practices for scalability and robustness.
-Additionally, I have strong skills in data analysis, Machine Learning, and Deep Learning to support advanced analytics and data-driven decision-making.
+I am a Data Scientist specialized in Natural Language Processing (NLP).
+I have gained over one year of practical experience through three internships, during which I worked on real-world NLP projects involving Large Language Models (LLMs), prompt engineering, and Retrieval-Augmented Generation (RAG) systems.
+
+I have expertise in designing intelligent assistants using modern frameworks such as LangChain, LangGraph, and CrewAI.
+I am also proficient in deploying NLP solutions on AWS cloud infrastructure, ensuring scalability, robustness, and reproducibility.
+
+Finally, I possess strong skills in machine learning, deep learning, and data analysis, supporting data-driven decision-making processes.
 
 ---
 
@@ -48,6 +50,9 @@ Worked on the development of an AI-powered assistant to automatically generate u
 - Developed a Retrieval-Augmented Generation (RAG) pipeline to automatically extract relevant context from the knowledge base.
 - Created and orchestrated AI agents capable of autonomously selecting the most relevant context to generate accurate unit tests.
 - Integrated the assistant with AWS Bedrock and deployed it on AWS EC2, ensuring scalable access and optimized performance.
+  
+**Tools & Technologies:** 
+`LLM`, `Python`, `Prompt Engineering`, `AWS Bedrock`, `Docker`, `Agent AI`, `LangChain`, `LangFuse`, `GitLab`
 
 ### 💻 Data Scientist (NLP) – Project @ LS2N 
 *Sep 2024 – Jan 2025, Nantes, France*
@@ -63,7 +68,9 @@ The project focused on developing an automatic summarization method for legal do
 both extractive and abstractive models: relevant sentences were first identified using a fine-tuned BERT classifier, then passed to summarization models such as TextRank and LegalPEGASUS.
 - Conducted experimental evaluation on SCOTUS to assess improvements in summarization quality.
 - Wrote a research paper presenting the methodology and results.
-
+  
+**Tools & Technologies:**  
+`Python`, `Transformers (Hugging Face)`, `LLM`, `Fine-tuning`, `Selenium`, `Zotero`
 
 
 ### 💻 Data Scientist (NLP) Intern @ IRIT 
@@ -77,6 +84,9 @@ Contributed to a research project aiming to generate semantic descriptions of ob
 - Optimized LLM outputs through advanced prompt engineering techniques to ensure accurate and meaningful descriptions.
 - Applied QLoRA fine-tuning to adapt and improve the LLM’s ability to handle domain-specific language and positioning data.
 
+**Tools & Technologies:** 
+`LLM`, `Prompt Engineering`, `Fine-Tuning (LoRA/QLoRA)`, `Hugging Face`, `RAG`, `LangChain`
+
 ### 💻 Data Scientist – Summer Intern @ Mondial Solution Services
 
 *July 2023 – August 2023, Casablanca, Morocco*
@@ -89,6 +99,9 @@ As part of a summer project, I completed an internship at Mondial Solution Servi
 - Trained object detection models: YOLOv8m and Faster R-CNN.
 - Performed real-time testing and fine-tuning on video inputs.
 - Conducted comparative evaluation and deployed the solution with Flask.
+
+**Tools & Technologies:**  
+`Python`, `YOLOv8m`, `Faster R-CNN`, `Roboflow`, `OpenCV`, `Flask`, `PyTorch`
 ---
 
 ## 🛠 Technical Stack
