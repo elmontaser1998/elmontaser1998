@@ -102,6 +102,8 @@ As part of a summer project, I completed an internship at Mondial Solution Servi
 
 **Tools & Technologies:**  
 `Python`, `YOLOv8m`, `Faster R-CNN`, `Roboflow`, `OpenCV`, `Flask`, `PyTorch`
+
+
 ---
 
 ## 🛠 Technical Stack
