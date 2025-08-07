@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3 align="center"> Data Scientist & NLP Intern at SII Group| Master's student in Data Science & NLP </h3>
+<h3 align="center"> Data Scientist & NLP Engineer </h3>
 
 
 <h2 align="center">🤖 Let’s build smarter AI together!</h2>
